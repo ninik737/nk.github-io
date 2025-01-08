@@ -51,4 +51,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 _posts
-
+layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
