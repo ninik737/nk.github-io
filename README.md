@@ -17,3 +17,6 @@ The steps taken were:
 4. Sketching the design on paper
 
 5. Creating the design in OnShape
+
+![image](https://github.com/user-attachments/assets/f6c56179-6cf0-45fa-9bb5-1e61a3d1db33)
+
