@@ -6,3 +6,14 @@ LED Candle - For my Final Culminating I made a simple switch circuit. I began so
 Additionally, the candle can be altered to have light sensors to work automatically, as well as heat sensors to avoid overuse and burning. I created a simpler version because there was not enough time to make anything too detailed. I also did not have the ability to buy new resources and could only use parts from my original circuit immitating a car.
 
 The steps taken were:
+
+1. Creating the circuit on TinkerCAD
+![image](https://github.com/user-attachments/assets/d609b230-0e37-460f-975a-38dea8d88b2e)
+
+2. Creating the circuit on a physical breadboard
+
+3. Soldering
+
+4. Sketching the design on paper
+
+5. Creating the design in OnShape
