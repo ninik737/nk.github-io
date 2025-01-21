@@ -1,4 +1,11 @@
 # nk.github.io
+Name: Nithila Kugenthiran
+Email: nithilakugenthiran@gmail.com
+Achievments:
+- Mathematica Centrum Distinction Certificate
+- Emergency First AID + CPR B
+- SciTech program for over 4 years
+
 LED Candle - For my Final Culminating I made a simple switch circuit. I began soldering the circuit to a board but did not have time to finish. I also sketched and designed a model for the LED candle in OnShape. The main idea of this item is to recreate LED candles and prove that they are easier and safer to use.
 
 ![image](https://github.com/user-attachments/assets/f736e1f4-c037-411f-9788-313a59c1d8e3)
